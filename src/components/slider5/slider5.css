@@ -1,0 +1,55 @@
+.slider5{
+    display: flex;
+    padding-bottom: 10rem;
+    gap: 2rem;
+    width: 80%;
+    /* border: 1px solid red; */
+}
+.slider5_card1:nth-child(2){
+    width: 312px;
+    height: 418px;
+    background: #FBF7D3;
+    border-radius: 5px;
+}
+.slider5_card1:nth-child(3){
+    width: 312px;
+    height: 418px;
+    background: #FFBDBD;
+    border-radius: 5px;
+}
+.slider5_card1:nth-child(4){
+    width: 312px;
+    height: 418px;
+    background: #C0ABFD;
+    border-radius: 5px;
+}
+.slider5_card1:first-child{
+    width: 312px;
+    height: 418px;
+    background: #FFBDBD;
+}
+.slider5_card1 .img99{
+    background: url('../../images/shoe.png') center no-repeat;
+    width: 300px;
+    height: 418px;
+    /* background-size: 70%; */
+
+}
+.img100{
+    background: url('../../images/stand.png') center no-repeat;
+    width: 264px;
+    height: 264px;
+    background-size: 80%;
+}
+.img101{
+    background: url('../../images/iphone.png') center no-repeat;
+    width: 264px;
+    height: 264px;
+    background-size: 80%;
+}
+.img102{
+    background: url('../../images/cream.png') center no-repeat;
+    width: 264px;
+    height: 264px;
+    background-size: 80%;
+}

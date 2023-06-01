@@ -1,0 +1,16 @@
+.space{
+    width: 100%;
+    height: 48px;
+    background: #F5F6F8;
+}
+.space h5{
+    margin-left: 30%;
+    padding-top: 10px;
+    width: 373px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #040404;
+}

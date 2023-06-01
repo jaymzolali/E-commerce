@@ -1,0 +1,93 @@
+.footer{
+    overflow: hidden;
+    padding: 40px;
+    height: 270px;
+    /* border: 1px solid red; */
+}
+.footer1{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 15% 15% 15% 15% 15%;
+    grid-gap: 8.3%;
+}
+.footer1 .img{
+    background: url('../../images/Logo.png') center no-repeat;
+    width: 200px;
+    height: 48px;
+}
+.footer1 p{
+    width: 141px;
+    height: 48px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #3E3E3E;
+}
+.footer1 .socials{
+    background: url('../../images/Social.png') center no-repeat;
+    width: 176px;
+    height: 32px;
+}
+.fut2{
+    background: url('../../images/fut1.png') center no-repeat;
+    width: 73px;
+    height: 212px;
+}
+.fut3{
+    background: url('../../images/fut3.png') center no-repeat;
+    width: 87px;
+    height: 176px;
+}
+.fut4{
+    background: url('../../images/fut4.png') center no-repeat;
+    width: 68px;
+    height: 212px;
+}
+.fut5{
+    background: url('../../images/fut5.png') center no-repeat;
+    width: 113px;
+    height: 140px;
+}
+.footer2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer2 .foo1{
+    background: url('../../images/©\ 2022\ Commerce\,\ Inc..png') center no-repeat;
+    width: 162px;
+    height: 24px;
+}
+.footer2 .foo2{
+    background: url('../../images/Frame\ 7.png') center no-repeat;
+    width: 338px;
+    height: 24px;
+}
+.footer2 .foo3{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+    width: 129px;
+    height: 16px;
+    color: grey;
+    /* border: 1px solid red; */
+}
+.footer2 .foo3 a{
+    color: grey;
+    font-weight: 500;
+}
+.footer2 .foo3 .ing{
+    background: url('../../images/futup.png') center no-repeat;
+    width: 16px;
+    height: 16px;
+    /* border: 1px solid red; */
+}
+
+@media (max-width: 800px) {
+    
+}

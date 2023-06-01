@@ -1,0 +1,22 @@
+.modern{
+    display: flex;
+    gap: 9%;
+    padding: 0 4rem;
+    /* width: 30vh; */
+}
+.modern-item{
+    width: 92px;
+    height: 40px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #3E3E3E;
+    padding-bottom: 1.5rem;
+    border-bottom: 3px solid #E9E9E9;
+}
+.modern-item:nth-child(4){
+    color: #EB8426;
+    border-bottom: 3px solid #EB8426;
+}

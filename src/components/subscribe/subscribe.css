@@ -1,0 +1,82 @@
+.subscribe{
+    width: 80%;
+height: 306px;
+left: 300px;
+top: 2739px;
+
+background: #5959D9;
+border-radius: 5px;
+}
+.subscribe .sub_one{
+    margin-left: 10%;
+}
+.subscribe .sub_one .yes{
+    width: 38px;
+    height: 26px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.subscribe .sub_one .write{
+    width: 521px;
+    height: 52px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.sub_email{
+    display: flex;
+    width: 648px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 20px;
+    margin-left: 26%;
+    /* border: 1px solid red; */
+    margin-top: 5%;
+    /* gap: 3rem; */
+}
+.subs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub_email button{
+    width: 133px;
+    height: 32px;
+    background: #EB8426;
+    border-radius: 50px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left: 40px;
+}
+.sub_email input{
+    margin-top: 8px;
+    display: grid;
+    place-items: center;
+    width: 450px;
+    height: 28px;
+    border: none;
+    margin-left: 10px;
+    /* border: 1px solid blue; */
+}
+.sub_email .subs .img{
+    background: url('../../images/Arrow_right.png') center no-repeat;
+    width: 16px;
+    height: 16px;
+    /* background-size: 90%; */
+}
+.subscribe h6{
+    margin-left: 45%;
+    width: 178px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration-line: underline;
+    color: #D6D6D6;
+}

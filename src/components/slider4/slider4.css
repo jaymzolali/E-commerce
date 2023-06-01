@@ -1,0 +1,38 @@
+.slider4{
+    height: fit-content;
+    /* border: 1px solid red; */
+    padding: 1rem;
+    padding-bottom: 4rem;
+}
+.slider4 h4{
+    width: 326px;
+    height: 26px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #3E3E3E;
+    margin-bottom: 5rem;
+}
+.slider4 p{
+    width: 178px;
+    height: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #3E3E3E;
+}
+.slider4 h6{
+    width: 64px;
+    height: 18px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #3E3E3E;
+}
+
+  
+
+  

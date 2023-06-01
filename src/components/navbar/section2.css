@@ -1,0 +1,34 @@
+.navbar2{
+    display: flex;
+    gap: 3rem;
+    width: 80%;
+    margin: 0 10%;
+}
+.navbar2 h6{
+    height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #3E3E3E;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+.navbar2 h6:nth-child(4){
+    color: #EB8426;
+    border-bottom: 4px solid #EB8426;
+}
+
+/* android view */
+@media screen and (max-width: 400px) {
+    .navbar2{
+        display: none;
+    }
+}
+/* tablet view */
+@media screen and (max-width: 800px) {
+    .navbar2{
+        display: none;
+    }
+}

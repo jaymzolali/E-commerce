@@ -1,0 +1,15 @@
+.tog{
+    width: 48px;
+    height: 48px;
+    background: #0cdbe2;
+    border-radius: 150px;
+    box-shadow: 0 0 24px #0cdbe2;
+    display: grid;
+    place-items: center;
+}
+.tog .img{
+    background: url('../../images/Sort.png') center no-repeat;
+    background-size: 80%;
+    width: 24px;
+    height: 24px;
+}
